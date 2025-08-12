@@ -1,4 +1,4 @@
-## Hello my name is Mario 👋
+## Hello, my name is Mario 👋
 
 Welcome! This is where I will be uploading projects.  
 
