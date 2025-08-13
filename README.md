@@ -1,9 +1,11 @@
+<!--
 ## Hello, my name is Mario 👋
 
 Welcome! This is where I will be uploading projects.  
 
 🔭 Currently working on Cyber Security project.
 
+-->
 <!--
 **moyola1/moyola1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,18 +48,101 @@ Here are some ideas to get you started:
 
 
 -->
+<h1 align="left">Hi, 👋 I'm Mario</h1>
+<a href="https://linkedin.com/in/mario-oyola"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
+Dedicated Administrator with years of cross-platform, virtualization and cloud experience.  Work effectively independently or as part of a team, strong desire to succeed and commitment to continuous skill development that helps build confidence, self-starter to achieve desired results
 
-
-
-<h1 align="center">Hi 👋, I'm Mario</h1>
-<h3 align="center">A passionate Systems Engineer</h3>
-
-- 🔭 I’m currently working on [Cyber Security](https://github.com/mario/Cybersecurity)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mario" height="30" width="40" /></a>
+<h2 align="left">Objective</h2>
+My years of experience has led me a passion for cybersecurity, and I am now ready to transition into this field, aiming for Cybersecurity Analyst.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<h2 align="left">Skills</h2>
+<p align="left">
+List of skill throughout the years and associated to recent project. 
+  <!--
+<table>
+<thead>
+<tr>
+<th>Skill</th>
+<th>Associated Project</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SIEM Implementation and Log Analysis</td>
+<td><a href="https://google.com" rel="nofollow">Detection Lab</a></td>
+</tr>
+<tr>
+<td>Network Traffic Monitoring and Attack Detection</td>
+<td><a href="https://google.com" rel="nofollow">Detection Lab</a></td>
+</tr>
+<tr>
+<td>Security Automation with Shuffle SOAR</td>
+<td>SOC Automation Lab</td>
+</tr>
+<tr>
+<td>Incident Response Planning and Execution</td>
+<td>SOC Automation Lab</td>
+</tr>
+<tr>
+<td>Case Management with TheHive</td>
+<td>SOC Automation Lab</td>
+</tr>
+<tr>
+<td>Scripting and Automation for Threat Mitigation</td>
+<td>SOC Automation Lab</td>
+</tr>
+</tbody>
+</table>
+  -->
+</p>
+
+<h2 align="left">Tools</h2>
+
+<h3 align="left">Cloud</h3>
+<p align="left">
+<div>
+ <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+
+</div>
+
+</p>
+
+<h3 align="left">Network</h3>
+<p align="left">
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+</p>
+
+<!--
+<h3 align="left">Endpoint</h3>
+<p align="left">
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+</p>
+
+<h3 align="left">SIEM</h3>
+<p align="left">
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+</p>
+-->
+
+<h2 align="left">Certification</h2>
+<p align="left">
+<div>
+  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&amp;style=for-the-badge&amp;logo=CompTIA&amp;logoColor=white"></a>
+  <img src="https://img.shields.io/badge/-MCSE%20(Microsoft%20Certified%20Systems%20Engineer)-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Red%20Hat%20Linux-EE0000?&style=for-the-badge&logo=Red%20Hat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" 
+</div>
+</p>
+
+<h2 align="left">Projetcs</h2>
+<p align="left">
+<li><a href="https://github.com/moyola1/NetworkDesign">Network Home Lab</a></li>
+<li><a href="https://github.com/moyola1/Virtualization-Proxmox">Proxmox</a></li>
+</p>
