@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 Dedicated Administrator with years of cross-platform, virtualization and cloud experience.  Work effectively independently or as part of a team, strong desire to succeed and commitment to continuous skill development that helps build confidence, self-starter to achieve desired results
 
 <h2 align="left">Objective</h2>
-My years of experience has led me a passion for cybersecurity, and I am now ready to transition into this field, aiming for Cybersecurity Analyst.
+My years of experience has led me to an interest in cybersecurity, and I am slowly transitioning into the field of Cybersecurity Analyst.
 </p>
 
 <h2 align="left">Skills</h2>
