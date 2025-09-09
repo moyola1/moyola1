@@ -145,4 +145,5 @@ List of skill throughout the years and associated to recent project.
 <p align="left">
 <li><a href="https://github.com/moyola1/NetworkDesign">Network Home Lab</a></li>
 <li><a href="https://github.com/moyola1/Virtualization-Proxmox">Proxmox</a></li>
+<li><a href="https://github.com/moyola1/Cybersecurity">Cybersecurity Lab</a></li>
 </p>
