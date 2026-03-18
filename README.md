@@ -103,33 +103,17 @@ List of skill throughout the years and associated to recent project.
 <p align="left">
 <div>
  <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
- <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
-
 </p>
 
-<h3 align="left">Network</h3>
+<h3 align="left">Security Monitoring and Detection</h3>
 <p align="left">
 <div>
+  <img src="https://img.shields.io/badge/-Wazuh SIEM/XDR-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 </p>
-
-<!--
-<h3 align="left">Endpoint</h3>
-<p align="left">
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-</p>
-
-<h3 align="left">SIEM</h3>
-<p align="left">
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-</p>
--->
 
 <h2 align="left">Certification</h2>
 <p align="left">
