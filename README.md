@@ -130,7 +130,7 @@ List of skill throughout the years and associated to recent project.
 
 <h2 align="left">Projetcs</h2>
 <p align="left">
-<li><a href="https://github.com/moyola1/NetworkDesign">Network Home Lab</a></li>
+<li><a href="https://github.com/moyola1/AWS">AWS Porfolio</a></li>
 <li><a href="https://github.com/moyola1/Virtualization-Proxmox">Proxmox</a></li>
 <li><a href="https://github.com/moyola1/Cybersecurity">Cybersecurity Lab</a></li>
 </p>
