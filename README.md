@@ -103,7 +103,7 @@ List of skill throughout the years and associated to recent project.
 <p align="left">
 <div>
  <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-
+ <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 </p>
@@ -137,7 +137,10 @@ List of skill throughout the years and associated to recent project.
   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&amp;style=for-the-badge&amp;logo=CompTIA&amp;logoColor=white"></a>
   <img src="https://img.shields.io/badge/-MCSE%20(Microsoft%20Certified%20Systems%20Engineer)-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Red%20Hat%20Linux-EE0000?&style=for-the-badge&logo=Red%20Hat&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" 
+</div>
+<div>
+ <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+ <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 </p>
 
