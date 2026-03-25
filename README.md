@@ -50,53 +50,21 @@ Here are some ideas to get you started:
 -->
 <h1 align="left">Hi, 👋 I'm Mario</h1>
 <a href="https://linkedin.com/in/mario-oyola"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
-Dedicated Administrator with years of cross-platform, virtualization and cloud experience.  Work effectively independently or as part of a team, strong desire to succeed and commitment to continuous skill development that helps build confidence, self-starter to achieve desired results
-
-<h2 align="left">Objective</h2>
-My years of experience has led me to an interest in cybersecurity, and I am slowly transitioning into the field of Cybersecurity Analyst.
+Cloud ready Infrastructure Engineer with experience supporting hybrid environments, virtualization, cybersecurity, and automation.  Proven self starter who works effectively both independently and within cross functional teams, with a strong commitment to continuous skill development and operational excellence.
+<h2 align="left">OBJECTIVE</h2>
+Results‑driven infrastructure professional leveraging years of on‑premises experience to move into cloud engineering, supported by a solid understanding of cybersecurity concepts and automation practices.
 </p>
 
-<h2 align="left">Skills</h2>
+<h2 align="left">INFRASTRUCTURE SKILLSET</h2>
 <p align="left">
-List of skill throughout the years and associated to recent project. 
-  <!--
-<table>
-<thead>
-<tr>
-<th>Skill</th>
-<th>Associated Project</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>SIEM Implementation and Log Analysis</td>
-<td><a href="https://google.com" rel="nofollow">Detection Lab</a></td>
-</tr>
-<tr>
-<td>Network Traffic Monitoring and Attack Detection</td>
-<td><a href="https://google.com" rel="nofollow">Detection Lab</a></td>
-</tr>
-<tr>
-<td>Security Automation with Shuffle SOAR</td>
-<td>SOC Automation Lab</td>
-</tr>
-<tr>
-<td>Incident Response Planning and Execution</td>
-<td>SOC Automation Lab</td>
-</tr>
-<tr>
-<td>Case Management with TheHive</td>
-<td>SOC Automation Lab</td>
-</tr>
-<tr>
-<td>Scripting and Automation for Threat Mitigation</td>
-<td>SOC Automation Lab</td>
-</tr>
-</tbody>
-</table>
-  -->
 </p>
 
+|                             |                            |
+|-----------------------------|:--------------------------:|
+| Hybrid:         |Experience administering environments spanning on-prem data centers and cloud technologies including Azure, AWS, CI/CD 
+| Automation:     |Build repeatable deployment using VM templates and automating tooling such as Ansible, Terraform and HCL BigFix.
+| Observability:  |Implemented Grafana + Prometheus observability, delivering KPI dashboards (CPU, memory, network) and proactive alerting for faster 
+|
 <h2 align="left">Tools</h2>
 
 <h3 align="left">Cloud</h3>
