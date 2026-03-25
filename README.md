@@ -64,7 +64,7 @@ Results‑driven infrastructure professional leveraging years of on‑premises e
 | Hybrid:         |Experience administering environments spanning on-prem data centers and cloud technologies including Azure, AWS, CI/CD 
 | Automation:     |Build repeatable deployment using VM templates and automating tooling such as Ansible, Terraform and HCL BigFix.
 | Observability:  |Implemented Grafana + Prometheus observability, delivering KPI dashboards (CPU, memory, network) and proactive alerting for faster 
-|
+
 <h2 align="left">Tools</h2>
 
 <h3 align="left">Cloud</h3>
